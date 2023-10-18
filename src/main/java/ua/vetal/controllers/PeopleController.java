@@ -7,7 +7,6 @@ import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
 import ua.vetal.dao.PersonDAO;
 import ua.vetal.models.Person;
-import ua.vetal.util.PersonValidator;
 
 import javax.validation.Valid;
 
